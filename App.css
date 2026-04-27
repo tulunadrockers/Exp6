@@ -1,0 +1,25 @@
+.App { 
+text-align: center; 
+padding: 20px; 
+} 
+form { 
+width: 400px; 
+margin: auto; 
+} 
+input { 
+width: 100%; 
+padding: 8px; 
+margin-top: 5px; 
+} 
+button { 
+padding: 10px 20px; 
+background-color: #808080; 
+color: white; 
+border: none; 
+cursor: pointer; 
+margin-top: 10px; 
+} 
+p { 
+margin: 0; 
+font-size: 14px; 
+}
